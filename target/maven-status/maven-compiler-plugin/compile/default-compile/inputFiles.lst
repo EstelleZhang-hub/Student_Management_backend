@@ -1,0 +1,9 @@
+/Users/zhangyy/Documents/codes/student_management/Student_Management_backend/src/main/java/com/example/student/entity/Student.java
+/Users/zhangyy/Documents/codes/student_management/Student_Management_backend/src/main/java/com/example/student/service/StudentService.java
+/Users/zhangyy/Documents/codes/student_management/Student_Management_backend/src/main/java/com/example/student/service/impl/StudentServiceImpl.java
+/Users/zhangyy/Documents/codes/student_management/Student_Management_backend/src/main/java/com/example/student/StudentApplication.java
+/Users/zhangyy/Documents/codes/student_management/Student_Management_backend/src/main/java/com/example/student/dto/LoginDTO.java
+/Users/zhangyy/Documents/codes/student_management/Student_Management_backend/src/main/java/com/example/student/controller/StudentController.java
+/Users/zhangyy/Documents/codes/student_management/Student_Management_backend/src/main/java/com/example/student/vo/Result.java
+/Users/zhangyy/Documents/codes/student_management/Student_Management_backend/src/main/java/com/example/student/dto/RegisterDTO.java
+/Users/zhangyy/Documents/codes/student_management/Student_Management_backend/src/main/java/com/example/student/mapper/StudentMapper.java
