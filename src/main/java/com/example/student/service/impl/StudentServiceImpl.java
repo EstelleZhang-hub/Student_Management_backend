@@ -25,6 +25,7 @@ public class StudentServiceImpl implements StudentService {
 
     @Override
     public boolean register(RegisterDTO registerDTO) {
+
         // 检查学号是否已存在
         LambdaQueryWrapper<Student> wrapper = new LambdaQueryWrapper<>();
         wrapper.eq(Student::getStudentId, registerDTO.getStudentId());
